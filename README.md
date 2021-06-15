@@ -5,7 +5,7 @@
 - 💞️ I do machine learning, data science and Ai.
 - Am looking forwad to expand my skill set and network 
 - 📫 How to reach me ...
-- email: mavenwechuli@gmsil.com
+- email: mavenwechuli@gmail.com
 - 
 
 <!---
