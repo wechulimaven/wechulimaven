@@ -14,7 +14,7 @@ You can click the Preview link to take a look at your changes.
 --->
 ![](https://komarev.com/ghpvc/?username=wechulimaven&color=green)
 
-![Dominic's github stats](https://github-readme-stats.vercel.app/api?username=wechulimaven&theme=merko&layout=compact&count_private=true&show_icons=true)
+![wechulimaven's github stats](https://github-readme-stats.vercel.app/api?username=wechulimaven&theme=merko&layout=compact&count_private=true&show_icons=true)
 
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=wechulimaven&layout=compact&theme=merko&langs_count=10)](https://github.com/wechulimaven/github-readme-stats)
