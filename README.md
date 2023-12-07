@@ -1,9 +1,9 @@
 - 👋 Hi, I’m wechuli maven
-- 👀 I’m a fullstack developer with python django and also mobile app dvelopment with flutter dart
-- 🌱 I’m currently working as full stack developer at TheBhub ...
-- 💞️ I’m also working as a freelancer for other private companies for short term contracts ...
-- 💞️ I do machine learning, and Ai.
-- Am looking forwad to expand my skill set, gain more experience and network 
+- 👀 I’m a full-stack developer with Python, Django, and  Flutter Dart being my core languages. In addition am also knowledgeable in Java Spring Boot, AWS cloud computing, Jenkins, API integrations etc
+- 🌱 I’m currently open for a full-stack role in the above technologies.
+- Highly skilled and self-motivated software developer with a strong background in coding and problem-solving.
+- Proven ability to develop efficient and user-friendly software solutions. Seeking challenging projects to contribute my expertise.
+I am looking forwad to expanding my skill set, gaining more experience, and network 
 - 📫 How to reach me ...
 - email: mavenwechuli@gmail.com
 - 
